@@ -113,8 +113,8 @@ namespace SendMessageServiceBus
             List<ClienteIntegrationEvent> lstUsers = new List<ClienteIntegrationEvent>();
             
             user = new ClienteIntegrationEvent();
-            user.Id = 2;
-            user.Name = "Néstor Gómez";
+            user.Id = 4;
+            user.Name = "Carlos Flores";
             user.Edad = 23;
             user.Profesion = "ISC";
 

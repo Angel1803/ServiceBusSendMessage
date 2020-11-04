@@ -35,7 +35,7 @@
                 subscriptionClientName);
             _autofac = autofac;
 
-            //RemoveDefaultRule();
+            RemoveDefaultRule();
             RegisterSubscriptionClientMessageHandler();
         }
 
